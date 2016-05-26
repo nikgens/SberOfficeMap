@@ -1,0 +1,183 @@
+{ "type": "FeatureCollection",
+    "features": [{ "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9136763,43.1731169]},
+        "properties": {"number":"013","title":"Дополнительный офис № 8635/013","address":"г. Владивосток,  проспект 100 лет Владивостоку, 137-а","manager":"вакансия"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9227033,43.1325529]},
+        "properties": {"number":"055","title":"Дополнительный офис № 8635/055","address":"г. Владивосток, ул. Жигура, 46  ","manager":"Чернова Елена Сергеевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9190563,43.1806748]},
+        "properties": {"number":"071","title":"Дополнительный офис № 8635/071","address":"г. Владивосток, пр-т 100 лет Владивостоку, 150б","manager":"Шимченко Юлия Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8980575,43.1302069]},
+        "properties": {"number":"111","title":"Дополнительный офис № 8635/0111","address":"г. Владивосток, проспект Острякова, 5г","manager":"Митина Анна Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9409633,43.1009869]},
+        "properties": {"number":"115","title":"Дополнительный офис № 8635/0115","address":"г. Владивосток, ул. Борисенко, 16 ","manager":"Конотоп Елена Юрьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.906146,43.1662929]},
+        "properties": {"number":"126","title":"Дополнительный офис № 8635/0126","address":"г. Владивосток, ул. Русская, 16 ","manager":"Омельяненко Людмила Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9257936,43.1577841]},
+        "properties": {"number":"132","title":"Дополнительный офис № 8635/0132","address":"г. Владивосток, ул. Тухачевского, 53","manager":"Цой Татьяна Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9368057,43.1273535]},
+        "properties": {"number":"134","title":"Дополнительный офис № 8635/0134","address":"г. Владивосток, ул. Луговая, 69 ","manager":"Сташевская Наталья Васильевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9299667,43.13278]},
+        "properties": {"number":"138","title":"Дополнительный офис № 8635/0138","address":"г. Владивосток, ул. Луговая, 21","manager":"Захаров Александр Маратович"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8764543,43.1090198]},
+        "properties": {"number":"141","title":"Дополнительный офис № 8635/0141","address":"г. Владивосток, ул. Посьетская, 14 ","manager":"Комарова Елена Анатольевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9092608,43.1546392]},
+        "properties": {"number":"145","title":"Дополнительный офис № 8635/0145","address":"г. Владивосток, проспект 100 лет Владивостоку, 52в","manager":"Ухина Наталья Анатольевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9277783,43.1002349]},
+        "properties": {"number":"148","title":"Дополнительный офис № 8635/0148","address":"г. Владивосток, ул. Вилкова, 3  ","manager":"Продоус Алена Юрьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9661564,43.0900273]},
+        "properties": {"number":"152","title":"Дополнительный офис № 8635/0152","address":"г. Владивосток, ул. Сахалинская, 42","manager":"Чудаева Виктория Викторовна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8866373,43.1158459]},
+        "properties": {"number":"158","title":"Дополнительный офис № 8635/0158","address":"г. Владивосток, ул. Уборевича, 6 ","manager":"Бутко Зоя Григорьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9022963,43.0939098]},
+        "properties": {"number":"159","title":"Дополнительный офис № 8635/0159","address":"г. Владивосток, ул. Калинина, 277","manager":"Колегова Ольга Валерьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9049433,43.1273409]},
+        "properties": {"number":"160","title":"Дополнительный офис № 8635/0160","address":"г. Владивосток, ул. Красного Знамени, 59","manager":"Унгарова Екатерина Валерьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9586623,43.1135089]},
+        "properties": {"number":"161","title":"Дополнительный офис № 8635/0161","address":"г. Владивосток, ул. Нейбута, 53 ","manager":"Мельникова Алена Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [132.0620916,43.2997099]},
+        "properties": {"number":"165","title":"Дополнительный офис № 8635/0165","address":"г. Владивосток, ул. Лермонтова, 75","manager":"Москаленко Ольга Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9083863,43.1512049]},
+        "properties": {"number":"168","title":"Дополнительный офис № 8635/0168","address":"г. Владивосток, ул. Ильичева, 16 ","manager":"Кулигина Галина Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9149623,43.112734]},
+        "properties": {"number":"170","title":"Дополнительный офис № 8635/0170","address":"г. Владивосток, ул. Светланская, 143 ","manager":"Бельтюкова Ольга Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9205353,43.1020459]},
+        "properties": {"number":"171","title":"Дополнительный офис № 8635/0171","address":"г. Владивосток, ул. Калинина, 29 ","manager":"Юркив Наталия Романовна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9196253,43.1685269]},
+        "properties": {"number":"172","title":"Дополнительный офис № 8635/0172","address":"г. Владивосток, ул. Русская, 66 ","manager":"Слободенюк Наталья Петровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9088781,43.1135557]},
+        "properties": {"number":"173","title":"Дополнительный офис № 8635/0173","address":"г. Владивосток, ул. Светланская, 80а","manager":"Кривоус Анна Валерьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8848563,43.1190029]},
+        "properties": {"number":"174","title":"Дополнительный офис № 8635/0174","address":"г. Владивосток, Океанский проспект, 18","manager":"Трудкова Светлана Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8907903,43.1273279]},
+        "properties": {"number":"176","title":"Дополнительный офис № 8635/0176","address":"г. Владивосток, Океанский проспект, 46 ","manager":"Зуева Евгения Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8796464,43.1207967]},
+        "properties": {"number":"177","title":"Дополнительный офис № 8635/0177","address":"г. Владивосток, Фонтанная, 18","manager":"Бартуль Ирина Сергеевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9092608,43.1546392]},
+        "properties": {"number":"178","title":"Дополнительный офис № 8635/0178","address":"г. Владивосток, пр-т 100 лет Владивостоку, 52в ","manager":"Данилов Сергей Леонидович"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9049483,43.0979329]},
+        "properties": {"number":"182","title":"Дополнительный офис № 8635/0182","address":"г. Владивосток, ул. Черемуховая, 7 ","manager":"Болдычева Оксана Григорьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9046197,43.133062]},
+        "properties": {"number":"186","title":"Дополнительный офис № 8635/0186","address":"г. Владивосток, Океанский пр-т, 110а","manager":"Лагина Елена Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8931957,43.1140544]},
+        "properties": {"number":"250","title":"Дополнительный офис № 8635/0250","address":"г. Владивосток, ул. Светланская 59","manager":"вакансия"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8932316,43.0243079]},
+        "properties": {"number":"251","title":"Дополнительный офис № 8635/0251","address":"о. Русский г. Владивостока, Кампус ДВФУ, корпус 24","manager":"Ильина Юлия Сергеевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8867546,43.1153111]},
+        "properties": {"number":"252","title":"Дополнительный офис № 8635/0252","address":"г. Владивосток. Светланская, 37","manager":"Костенова Елена Александровна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9103756,43.1282446]},
+        "properties": {"number":"298","title":"Дополнительный офис № 8635/0298","address":"г. Владивосток, пр-т Красного Знамени, 77","manager":"Олейник Наталья Юрьевна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.8821827,43.1195929]},
+        "properties": {"number":"299","title":"Дополнительный офис № 8635/0299","address":"г. Владивосток, ул. Мордовцева, 3","manager":"Якубец Оксана Владимировна"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9046197,43.133062]},
+        "properties": {"number":"300","title":"Дополнительный офис № 8635/0300","address":"г. Владивосток, пр-т Океанский пр-т 110 а","manager":"Еремеев Илья Павлович"}
+        },
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [131.9049483,43.0979329]},
+        "properties": {"number":"304","title":"Дополнительный офис № 8635/0304","address":"г. Владивосток, ул. Черемуховая, 7 ","manager":"Рихтер Валентина Федоровна"}
+        },
+
+       ]
+     }
